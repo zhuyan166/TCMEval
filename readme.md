@@ -17,15 +17,34 @@ TCM Evaluation: A comprehensive and professional benchmark for TCM
 </h1>
 
 ## 目录
-- 项目介绍(#项目介绍)
-- 文件目录说明
-- 组织者
-- 引用
+- [项目介绍](#项目介绍)
+- [文件目录说明](#文件目录说明)
+- [组织者](#组织者)
+- [引用](#引用)
 
 ### 项目介绍
 
 ### 文件目录说明
+eg:
+```
+filetree 
+├── ARCHITECTURE.md
+├── LICENSE.txt
+├── README.md
+├── /account/
+├── /bbs/
+├── /docs/
+│  ├── /rules/
+│  │  ├── backend.txt
+│  │  └── frontend.txt
+├── manage.py
+├── /oa/
+├── /static/
+├── /templates/
+├── useless.md
+└── /util/
 
+```
 ### 组织者
 
 ### 引用
