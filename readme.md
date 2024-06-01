@@ -23,6 +23,7 @@ TCM Evaluation: A comprehensive and professional benchmark for TCM
 - [引用](#引用)
 
 ### 项目介绍
+TCM Evaluation(TCM-Eval)由中医药理论、中医药信息专业背景团队构建的一个中医测评基准，其包含了XXXX、XXXX、XXXX
 
 ### 文件目录说明
 eg:
