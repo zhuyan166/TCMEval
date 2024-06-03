@@ -2,7 +2,7 @@
 TCM Evaluation: A comprehensive and professional benchmark for traditional Chinese medicine (TCM)
 
 <a href="https://github.com/zhuyan166/TCMEval">
-  <img src="figs/TCM_bench_logo.png" alt="Logo" width="180" height="80">
+  <img src="figs/TCM_bench_logo.png" alt="Logo">
 </a>
 
 <h1 align="center">
