@@ -1,6 +1,5 @@
 # TCM Evaluation(TCM-Eval): A comprehensive and professional benchmark for traditional Chinese medicine (TCM)
 
-([English](readme.md)) | ([简体中文](readme_zh.md))
 <a href="https://github.com/zhuyan166/TCMEval">
   <img src="figs/TCM_bench_logo.png" alt="Logo">
 </a>
@@ -19,6 +18,8 @@
     <img src="https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen" />
   </a>
 </h1>
+
+([English](readme.md)) | ([简体中文](readme_zh.md))
 
 ## 目录
 - [项目介绍](#项目介绍)
