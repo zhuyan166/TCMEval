@@ -29,7 +29,8 @@ TCM Evaluation(TCM-Eval)是由中医药理论、中医药信息专业背景团�
 ### 更新
 [2024/6/1]发布v0.1版本
 - 初始化项目
-- 发布**中医辨证思维测评数据集** v0.1
+- 发布**中医数据集** v0.1
+- 发布**中医方剂分类数据集** v0.1
 
 ### 文件目录说明
 eg:
@@ -43,7 +44,7 @@ filetree
 │  │  ├── train.json
 │  │  └── test.json
 │  │  └── readme.md
-│  ├── /TCMformula/
+│  ├── /TCMFormula/
 │  │  ├── train.json
 │  │  ├── test.json
 │  │  ├── validation.json
