@@ -60,6 +60,14 @@ filetree
 ### 引用
 ```
 todo
+
+# 中医方剂分类数据集
+@article{zhe2023bibm,
+  title={Traditional Chinese Medicine Formula Classification Using Large Language Models},
+  author={Wang, Zhe and Li, Keqian and Ren, Quanying and Yao, Keyu and Zhu, Yan},
+  journal={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2023}
+}
 ```
 **如果您希望进一步的完善中医药领域的测评集或参与测评集构建工作，请随时联系我们。**
 
