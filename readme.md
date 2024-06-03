@@ -33,7 +33,6 @@ TCM Evaluation(TCM-Eval)是由中医药理论、中医药信息专业背景团�
 - 发布**中医方剂分类数据集** v0.1
 
 ### 文件目录说明
-eg:
 ```
 filetree 
 ├── ARCHITECTURE.md
