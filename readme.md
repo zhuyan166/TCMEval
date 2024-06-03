@@ -1,9 +1,8 @@
 # TCM Evaluation(TCM-Eval)
-TCM-Eval: A comprehensive and professional benchmark for traditional Chinese medicine (TCM)
 <a href="https://github.com/zhuyan166/TCMEval">
   <img src="figs/TCM_bench_logo.png" alt="Logo">
 </a>
-
+TCM-Eval: A comprehensive and professional benchmark for traditional Chinese medicine (TCM)
 <h1 align="center">
   <a href="">
     <img src="https://img.shields.io/badge/releases-v0.1-red" />
