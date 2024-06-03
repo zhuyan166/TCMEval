@@ -1,11 +1,9 @@
 # TCM Evaluation(TCM-Eval): 一个全面、专业的中医测评基准
 
-
-
 <a href="https://github.com/zhuyan166/TCMEval">
   <img src="figs/TCM_bench_logo.png" alt="Logo">
 </a>
-
+TCM-Eval: A comprehensive and professional benchmark for traditional Chinese medicine (TCM)
 <h1 align="center">
   <a href="">
     <img src="https://img.shields.io/badge/releases-v0.1-red" />
@@ -21,7 +19,7 @@
   </a>
 </h1>
 
-([Englsh](readme.md)) | ([简体中文](readme_zh.md))
+([English](readme.md)) | ([简体中文](readme_zh.md))
 
 ## 目录
 - [项目介绍](#项目介绍)
@@ -61,7 +59,12 @@ filetree
 ```
 
 ### 组织者
-- 朱彦，中国中医科学院基础医学研究所
+- 朱彦，中国中医科学院中医药信息研究所
+- 王哲，中国医学科学院基础医学研究所
+- 黄玉燕，中国中医科学院中医基础理论研究所
+
+#### 学生：
+- 郝梦，中国中医科学院中医药信息研究所
 
 ### 引用
 ```
