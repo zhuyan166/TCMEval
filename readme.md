@@ -67,8 +67,10 @@ filetree
 - 李可千，长春中医药大学医药信息学院
 
 ### 引用
+If you find our work useful for your research, please consider citing it:
 ```
 todo
 ```
+
 **如果您希望进一步的完善中医药领域的测评集或参与测评集构建工作，请随时联系我们。**
 
