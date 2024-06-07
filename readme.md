@@ -31,6 +31,8 @@ TCM-Eval: A comprehensive and professional benchmark for traditional Chinese med
 TCM Evaluation(TCM-Eval)是由具备中医药理论、中医药信息专业背景团队构建的一个中医测评基准，包含了中医药领域如基础研究、临床研究、信息学、政策与管理等方面基础或复杂测评集，可全面评估中医药领域的研究成果、技术水平等方面表现，也可做为中医药领域教育的测试标准，为中医药行业的发展提供有力的支持。
 
 ### 更新
+[2024/6/7]更新
+- **发布中国中医专业研究生考试数据集** v0.1
 [2024/6/1]发布v0.1版本
 - 初始化项目
 - 发布**中医数据集** v0.1
@@ -48,6 +50,11 @@ filetree
 │  │  └── test.json
 │  │  └── readme.md
 │  ├── /TCMEval-Formula/
+│  │  ├── train.json
+│  │  ├── test.json
+│  │  ├── validation.json
+│  │  └── readme.md
+│  ├── /TCMEval-CPE/
 │  │  ├── train.json
 │  │  ├── test.json
 │  │  ├── validation.json
