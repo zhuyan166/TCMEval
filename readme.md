@@ -14,7 +14,7 @@ TCM-Eval: A comprehensive and professional benchmark for traditional Chinese med
     <img src="https://img.shields.io/badge/TCM-Benchmark-blue" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen" />
+    <img src="https://img.shields.io/badge/LICENSE-CC-BY-NC-ND 4.0-brightgreen" />
   </a>
 </h1>
 
