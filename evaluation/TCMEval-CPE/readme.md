@@ -14,13 +14,10 @@
 - 发布**中国中医专业研究生考试数据集-例子** v0.1
 
 ### 文件目录说明
-#### TCMEval-CPE-example.xlsx
-- 中医专业研究所考试数据集-例子
+- TCMEval-CPE-example.xlsx: 中医专业研究所考试数据集-例子
+- readme.md: 数据集说明文件
 
-#### readme.md
-- 数据集说明文件
 
-```
 
 ### 引用
 If you find our work useful for your research, please consider citing it:
