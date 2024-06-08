@@ -56,9 +56,7 @@ filetree
 │  │  ├── validation.json
 │  │  └── readme.md
 │  ├── /TCMEval-CPE/
-│  │  ├── train.json
-│  │  ├── test.json
-│  │  ├── validation.json
+│  │  ├── TCMEval-CPE-example.xlsx
 │  │  └── readme.md
 ├── readme.md
 └── /data/
