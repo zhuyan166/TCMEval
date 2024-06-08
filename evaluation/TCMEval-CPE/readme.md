@@ -26,7 +26,7 @@
 If you find our work useful for your research, please consider citing it:
 ```
 @article{wang2024XXX,
-  title={"Chinese Postgraduate Examination Dataset"},
+  title={Chinese Postgraduate Examination Dataset},
   author={Baifeng Wang, Meiwei Zhang, Zhe Wang, Keyu Yao, Meng Hao,  Junhui Wang, Suyuan Peng, Yan Zhu},
   journal={XXXX},
   year={2024}
