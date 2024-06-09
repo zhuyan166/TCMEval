@@ -52,7 +52,6 @@ filetree
 │  │  └── readme.md
 │  ├── /TCMEval-Formula/
 │  │  ├── TCMEval-Formula-example.xlsx
-│  │  ├── validation.json
 │  │  └── readme.md
 │  ├── /TCMEval-CPE/
 │  │  ├── TCMEval-CPE-example.xlsx
