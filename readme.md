@@ -84,6 +84,13 @@ If you find our work useful for your research, please consider citing it:
   year={2024}
 }
 
+- TCM Formula Classification Dataset
+@article{wang2023bibm,
+  title={Traditional Chinese Medicine Formula Classification Using Large Language Models},
+  author={Zhe Wang, Keqian Li, Quanying Ren, Keyu Yao, Yan Zhu},
+  journal={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2023}
+
 - todo
 ```
 
