@@ -1,4 +1,5 @@
-![image](https://github.com/zhuyan166/TCMEval/assets/97814954/cfbfa891-7bea-470e-89cc-3790fb39a766)![image](https://github.com/zhuyan166/TCMEval/assets/97814954/d0f2e554-aeb1-4ab9-9c05-2a9ec25107b9)# TCM Formula classification Dataset
+# 方剂分类数据集
+## TCM Formula classification Dataset
 
 ## 目录
 - [测评集介绍](#测评集介绍)
