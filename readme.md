@@ -1,5 +1,5 @@
 # 决明测评集
-# TCM Evaluation(TCM-Eval)
+### TCM Evaluation(TCM-Eval)
 <a href="https://github.com/zhuyan166/TCMEval">
   <img src="https://github.com/zhuyan166/TCMEval/blob/main/figs/TCM_bench_logo.png" alt="Logo">
 </a>
