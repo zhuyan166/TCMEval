@@ -76,7 +76,7 @@ If you find our work useful for your research, please consider citing it:
 ```
 - Chinese Postgraduate Examination Dataset
 @article{wang2024XXX,
-  title={Chinese Postgraduate Examination Dataset},
+  title={Performance of GPT-4 and Mainstream Chinese LargeLanguage Models on the Chinese Postgraduate Examination Dataset: Potential for AI-assisted TraditionalChinese Medicine},
   author={Baifeng Wang, Meiwei Zhang, Zhe Wang, Keyu Yao, Meng Hao,  Junhui Wang, Suyuan Peng, Yan Zhu},
   journal={XXXX},
   year={2024}
