@@ -43,7 +43,7 @@ C
 ```
 
 ### 如何提交
-您首先需要准备一个 UTF-8 编码的 excel文件，并按照以下格式编写。
+您首先需要准备一个 excel文件，并按照以下格式编写。
 **Number, The chosen answer from response **
 共两列，然后提交到我们的邮箱。
 
