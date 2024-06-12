@@ -47,7 +47,7 @@ C
 ```
 #### Table 
 ##### Table 1 The performance of LLMs on different subjects
-![image](https://github.com/zhuyan166/TCMEval/blob/main/figs/TCMEval-CPE-Figs/Table1.jpg<div align=center><img width="250" alt="Table 1" src="https://github.com/zhuyan166/TCMEval/blob/main/figs/TCMEval-CPE-Figs/Table1.jpg"></div>
+![image](https://github.com/zhuyan166/TCMEval/blob/main/figs/TCMEval-CPE-Figs/Table1.jpg)<div align=center><img  alt="Table 1" src="https://github.com/zhuyan166/TCMEval/blob/main/figs/TCMEval-CPE-Figs/Table1.jpg"></div>
 
 ### 如何提交
 您首先需要准备一个 excel文件，并按照以下格式编写。
