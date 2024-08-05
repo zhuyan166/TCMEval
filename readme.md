@@ -75,8 +75,9 @@ filetree
 
 ### 引用
 If you find our work useful for your research, please consider citing it:
-```
+
 - Chinese Postgraduate Examination Dataset
+```
 @misc{wang2024TCMEval-CPE,
   title={Performance of GPT-4 and Mainstream Chinese LargeLanguage Models on the Chinese Postgraduate Examination Dataset: Potential for AI-assisted TraditionalChinese Medicine},
   author={Baifeng Wang, Meiwei Zhang, Zhe Wang, Keyu Yao, Meng Hao,  Junhui Wang, Suyuan Peng, Yan Zhu},
@@ -84,25 +85,27 @@ If you find our work useful for your research, please consider citing it:
   howpublished = {\url{https://github.com/zhuyan166/TCMEval/tree/main/evaluation/TCMEval-CPE}},
   year={2024}
 }
-
+```
 - TCM Formula Classification Dataset
+```
 @article{wang2023bibm,
   title={Traditional Chinese Medicine Formula Classification Using Large Language Models},
   author={Zhe Wang, Keqian Li, Quanying Ren, Keyu Yao, Yan Zhu},
   journal={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year={2023}
 }
+```
 
 - TCMEval-SDT
+```
 @misc{TCMEval-SDT,
 title={TCMEval-SDT: a benchmark dataset for syndrome diagnosis of traditional Chinese medicine},
 year = {2024},
 publisher = {GitHub},
 howpublished = {\url{https://github.com/zhuyan166/TCMEval/tree/main/evaluation/TCMEval-SDT}},
 }
-
-- todo
 ```
+- todo
 
 > [!Note]
 > **如果您希望进一步的完善中医药领域的测评集或参与测评集构建工作，请随时联系我们（zhuyan166@126.com）。**
