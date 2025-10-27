@@ -98,12 +98,7 @@ If you find our work useful for your research, please consider citing it:
 
 - TCMEval-SDT
 ```
-@misc{TCMEval-SDT,
-title={TCMEval-SDT: a benchmark dataset for syndrome diagnosis of traditional Chinese medicine},
-year = {2024},
-publisher = {GitHub},
-howpublished = {\url{https://github.com/zhuyan166/TCMEval/tree/main/evaluation/TCMEval-SDT}},
-}
+Wang, Z., Hao, M., Peng, S. et al. TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine. Sci Data 12, 437 (2025). https://doi.org/10.1038/s41597-025-04772-9
 ```
 - todo
 
