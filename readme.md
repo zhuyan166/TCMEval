@@ -75,6 +75,9 @@ filetree
 - 郝梦，中国中医科学院中医药信息研究所
 - 李可千，长春中医药大学医药信息学院
 - 王柏沣，北京中医药大学
+- 卢一玮，中国中医科学院中医药信息研究所
+- 程婷，中国中医科学院中医药信息研究所
+- 王玮琦，长春中医药大学医药信息学院
 
 ### 引用
 If you find our work useful for your research, please consider citing it:
@@ -82,7 +85,7 @@ If you find our work useful for your research, please consider citing it:
 - Chinese Postgraduate Examination Dataset
 ```
 @misc{wang2024TCMEval-CPE,
-  title={Performance of GPT-4 and Mainstream Chinese LargeLanguage Models on the Chinese Postgraduate Examination Dataset: Potential for AI-assisted TraditionalChinese Medicine},
+  title={Performance of GPT-4 and Mainstream Chinese LargeLanguage Models on the Chinese Postgraduate Examination Dataset: Potential for AI-assisted Traditional Chinese Medicine},
   author={Baifeng Wang, Meiwei Zhang, Zhe Wang, Keyu Yao, Meng Hao,  Junhui Wang, Suyuan Peng, Yan Zhu},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/zhuyan166/TCMEval/tree/main/evaluation/TCMEval-CPE}},
@@ -101,6 +104,13 @@ If you find our work useful for your research, please consider citing it:
 
 - TCMEval-SDT
 ```
+@article{wang2025scidata,
+  title={TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine},
+  author={Zhe Wang, Meng Hao, Suyuan Peng, et al.},
+  journal={Scientific Data},
+  year={2025}
+}
+或者
 Wang, Z., Hao, M., Peng, S. et al. TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine. Sci Data 12, 437 (2025). https://doi.org/10.1038/s41597-025-04772-9
         
         
