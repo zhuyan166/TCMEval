@@ -113,9 +113,19 @@ If you find our work useful for your research, please consider citing it:
   year={2025}
 }
 或者
-Wang, Z., Hao, M., Peng, S. et al. TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine. Sci Data 12, 437 (2025). https://doi.org/10.1038/s41597-025-04772-9
-        
-        
+Wang, Z., Hao, M., Peng, S. et al. TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine. Sci Data 12, 437 (2025). https://doi.org/10.1038/s41597-025-04772-9     
+```
+
+- TCMEval-PA
+```
+@article{wang2025scidata,
+  title={TCMEval-PA: a question-answering benchmark dataset for the prescription audit of Traditional Chinese Medicine},
+  author={Bangfeng Wang et al.},
+  journal={Scientific Data},
+  year={2025}
+}
+或者
+Wang, B., Lu, Y., Wang, Z. et al. TCMEval-PA: a question-answering benchmark dataset for the prescription audit of Traditional Chinese Medicine. Sci Data 13, 79 (2026). https://doi.org/10.1038/s41597-025-06387-6
 ```
 - todo
 
