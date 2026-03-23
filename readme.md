@@ -32,6 +32,9 @@ TCM-Eval: A comprehensive and professional benchmark system for traditional Chin
 决明测评系统（TCM Evaluation System，TCM-Eval）是由具备中医药理论、中医药信息专业背景的杏息树下团队构建的一个综合性中医测评基准系统，包含了中医药领域如基础研究、临床研究、信息学、政策与管理等方面基础或复杂测评集，可全面评估中医药领域的研究成果、技术水平等方面表现，也可做为中医药教育领域测试标准，为中医药行业的发展提供有力的支持。
 
 ### 更新
+[2026/3/23]
+- 发布**中医处方审计的问答基准数据集**v1.0及相关答案
+
 [2025/10/27]
 - 发布**中医辩证思维数据集** v1.0及相关答案
 
@@ -59,6 +62,9 @@ filetree
 │  │  └── readme.md
 │  ├── /TCMEval-CPE/
 │  │  ├── TCMEval-CPE-example.xlsx
+│  │  └── readme.md
+│  ├──/TCMEval-PA/
+│  │  ├──script/
 │  │  └── readme.md
 ├── readme.md
 └── /data/
