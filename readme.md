@@ -63,7 +63,7 @@ filetree
 │  ├── /TCMEval-CPE/
 │  │  ├── TCMEval-CPE-example.xlsx
 │  │  └── readme.md
-│  ├──/TCMEval-PA/
+│  ├── /TCMEval-PA/
 │  │  ├──script/
 │  │  └── readme.md
 ├── readme.md
