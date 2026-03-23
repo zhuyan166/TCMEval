@@ -84,7 +84,7 @@ filetree
 ### 引用
 If you find our work useful for your research, please consider citing it:
 
-- Chinese Postgraduate Examination Dataset
+**- Chinese Postgraduate Examination Dataset**
 ```
 @misc{wang2024TCMEval-CPE,
   title={Performance of GPT-4 and Mainstream Chinese LargeLanguage Models on the Chinese Postgraduate Examination Dataset: Potential for AI-assisted Traditional Chinese Medicine},
@@ -94,7 +94,7 @@ If you find our work useful for your research, please consider citing it:
   year={2024}
 }
 ```
-- TCM Formula Classification Dataset
+**- TCM Formula Classification Dataset**
 ```
 @article{wang2023bibm,
   title={Traditional Chinese Medicine Formula Classification Using Large Language Models},
@@ -104,7 +104,7 @@ If you find our work useful for your research, please consider citing it:
 }
 ```
 
-- TCMEval-SDT
+**- TCMEval-SDT**
 ```
 @article{wang2025scidata,
   title={TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine},
@@ -116,7 +116,7 @@ If you find our work useful for your research, please consider citing it:
 Wang, Z., Hao, M., Peng, S. et al. TCMEval-SDT: a benchmark dataset for syndrome differentiation thought of traditional Chinese medicine. Sci Data 12, 437 (2025). https://doi.org/10.1038/s41597-025-04772-9     
 ```
 
-- TCMEval-PA
+**- TCMEval-PA**
 ```
 @article{wang2025scidata,
   title={TCMEval-PA: a question-answering benchmark dataset for the prescription audit of Traditional Chinese Medicine},
